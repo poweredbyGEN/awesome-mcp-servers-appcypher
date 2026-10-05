@@ -260,6 +260,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" height="14"/> [Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - <img src="https://img.icons8.com/?size=48&id=ui4CTPMMDCFh&format=png" height="14"/> [Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
+- <img src="https://gen.pro/favicon.png" height="14"/> [GEN](https://github.com/poweredbyGEN/gen-mcp-server) - The auto-content engine for ads, cartoons, AI UGC, and microdramas: researches what's working, creates the video in a free editor, and publishes to social platforms over hosted MCP. AI content uses credits funded by card or x402; OAuth or PAT authentication.
 <br />
 
 ## 📝 <a name="note-taking"></a>Note Taking
